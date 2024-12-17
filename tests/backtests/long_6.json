@@ -1,0 +1,20 @@
+{
+  "long_entry_signal_params": {
+      "long_entry_condition_1_enable": false,
+      "long_entry_condition_2_enable": false,
+      "long_entry_condition_3_enable": false,
+      "long_entry_condition_4_enable": false,
+      "long_entry_condition_5_enable": false,
+      "long_entry_condition_6_enable": true,
+      "long_entry_condition_41_enable": false,
+      "long_entry_condition_42_enable": false,
+      "long_entry_condition_43_enable": false,
+      "long_entry_condition_120_enable": false,
+      "long_entry_condition_141_enable": false,
+      "long_entry_condition_142_enable": false,
+      "long_entry_condition_143_enable": false
+  },
+  "short_entry_signal_params": {
+      "short_entry_condition_501_enable": false
+  }
+}
