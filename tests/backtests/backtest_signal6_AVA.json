@@ -1,10 +1,10 @@
 {
   "strategy": "NostalgiaForInfinityX5",
+  "stake_currency": "USDT",
   "add_config_files": [
     "long_6.json",
     "AVA.json",
     "../../configs/trading_mode-spot.json",
-    "../../configs/exampleconfig.json",
-    "../../configs/exampleconfig_secret.json"
+    "exampleconfig.json",
   ]
 }
